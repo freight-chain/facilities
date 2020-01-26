@@ -1,0 +1,8 @@
+{
+  "name": "contracts",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bignumber.js": "^7.2.1"
+  }
+}
